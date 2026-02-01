@@ -11,6 +11,7 @@ Virtualization: Building and maintaining self-hosted homelabs utilizing Proxmox,
 Self-Hosted Homelab: A virtualization environment designed for testing network security and cloud storage deployments.
 
 📚 Current Pursuits
+
 🎓 M.S. Cybersecurity & Information Assurance | Western Governors University
 
 🎓 B.A. Computer Science | University of Nevada, Las Vegas
