@@ -13,6 +13,15 @@ This project provides an end-to-end simulation of a comprehensive vulnerability 
 
 ---
 
+## 🕵️ Threat Hunting and Security Operations Projects
+
+### [Threat Hunt: Unauthorized TOR Usage](https://github.com/ChristopherMonteleone/Threat-Hunt-Unauthorized-TOR-Usage)
+Executed a comprehensive threat hunting scenario using Microsoft Defender for Endpoint to detect and mitigate unauthorized anonymity tools within a controlled corporate environment.
+* **Tech Stack:** Microsoft Defender for Endpoint (MDE), Kusto Query Language (KQL), Azure Virtual Machines
+* **Key Outcome:** Developed advanced KQL queries to correlate file events, process execution, and network telemetry. Successfully identified the installation and usage of the TOR browser and triggered device isolation protocols to neutralize the risk.
+
+---
+
 ## 🏗️ Identity & Systems Architecture
 
 ### [Azure-Based Windows Server Active Directory Lab](https://github.com/ChristopherMonteleone/Azure-AD-Lab-Environment/tree/main)
@@ -37,11 +46,6 @@ Designed and automated enterprise-wide Android endpoint provisioning to standard
 Engineered a private infrastructure environment utilizing bare-metal virtualization and containerization for secure data management.
 * **Tech Stack:** Proxmox VE, Ubuntu Server, Docker, NextCloud
 * **Core Components:** Deployed Proxmox as a Type-1 Hypervisor to host various Linux server instances. Utilized Docker to containerize a NextCloud instance, creating a sovereign cloud solution for end-to-end file, photo, and video management.
-
----
-
-## 🕵️ Threat Hunting and Security Operations Projects
-*(Section under development...)*
 
 ---
 
