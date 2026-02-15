@@ -6,3 +6,11 @@ I am focused on building and optimizing resilient security architectures. My wor
 - [Modern Vulnerabilty Management Project](https://github.com/ChristopherMonteleone/Vulnerability-Management-Program)
 
 ## Threat Hunting and Security Operations Projects
+- ...
+
+
+## Connect With Me
+
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/christopher-monteleone/
