@@ -1,6 +1,6 @@
 # Chris Monteleone's IT and Cybersecurity Project Portfolio
 
-I am a detail-oriented Information Technology Specialist and Computer Science graduate with a passion for building secure, scalable systems and engaging digital experiences. Currently, I am pursuing a Master’s in Cybersecurity and Information Assurance at WGU while working as an IT Specialist at MS Shift in Las Vegas, Nevada.
+I am focused on building and optimizing resilient security architectures. My work centers on the full lifecycle of security operations—from engineering cloud-based vulnerability management programs to automating threat detection workflows. This portfolio documents my hands-on approach to hardening environments and streamlining security processes through technical experimentation and deployment.
 
 ## Vulnerability Management Projects
 - [Modern Vulnerabilty Management Project](https://github.com/ChristopherMonteleone/Vulnerability-Management-Program)
