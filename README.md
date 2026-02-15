@@ -46,5 +46,5 @@ Engineered a private infrastructure environment utilizing bare-metal virtualizat
 ---
 
 ## 🤝 Connect With Me
-* **LinkedIn:** [Your Link Here]
-* **Email:** [Your Email Here]
+* **LinkedIn:** https://www.linkedin.com/in/christopher-monteleone/
+* **Email:** christophergmonteleone@gmail.com
