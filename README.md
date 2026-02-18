@@ -39,7 +39,7 @@ Architected a cloud-resident Windows Server 2022 environment in Microsoft Azure 
 ## 📱 Endpoint Engineering & Automation
 
 ### [Automated Android Provisioning (MDM & Automation)](https://christophermonteleone.github.io/pages/android-device-provisioning.html)
-Designed and automated enterprise-wide Android endpoint provisioning to standardize security posture across 12+ sites and 200+ devices.
+Designed and automated enterprise-wide Android endpoint provisioning to standardize security posture across 17+ sites and 350+ devices.
 * **Tech Stack:** ManageEngine MDM, Zebra StageNow, Enterprise Home Screen
 * **Impact:** Reduced device setup time by **50%** (from 60+ minutes to under 30 minutes) by engineering a repeatable factory-reset-to-in-service workflow using barcode kits and automated MDM group assignments.
 
