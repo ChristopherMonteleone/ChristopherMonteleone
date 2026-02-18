@@ -14,7 +14,7 @@ This project provides an end-to-end simulation of a comprehensive vulnerability 
 ### [Automated STIG Compliance & Remediation](https://github.com/ChristopherMonteleone/STIG-Compliance-And-Automation)
 Developed a repository of PowerShell scripts to automate the remediation of high-severity Windows 10 vulnerabilities based on DISA STIG benchmarks. Followed a "Verify, Fix, Automate" workflow to translate manual registry edits into reproducible infrastructure-as-code.
 * **Tools:** PowerShell, Microsoft Azure (Virtual Machines), Windows 10, Group Policy (GPO), Registry Editor
-* **Key Outcome:** Engineered 10 scripts to enforce security policies, successfully automating the transition from manual hardening to valid compliance artifacts.
+* **Key Outcome:** Engineered 10 scripts to enforce security policies, successfully automating the transition from manual hardening to valid compliance.
 
 ---
 
