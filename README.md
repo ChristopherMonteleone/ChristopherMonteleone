@@ -29,6 +29,11 @@ Executed a comprehensive threat hunting scenario using Microsoft Defender for En
 
 ## 🏗️ Identity & Systems Architecture
 
+### [Secure Hybrid-Cloud Network Merger & Zero Trust Implementation Project](https://github.com/ChristopherMonteleone/Secure-Hybrid-Cloud-Network-Merger)
+Acted as the lead cybersecurity architect to design a secure, compliant network merger between a financial institution and a healthcare software provider. 
+* **Tech Stack**: Hybrid-Cloud Architecture (IaaS), Zero Trust Network Access (ZTNA), Network Micro-segmentation, IPsec VPNs, NIST SP 800-30 Risk Assessment Methodology.
+* **Core Components**: Analyzed provided vulnerability reports and legacy network topologies to architect a modernized, micro-segmented hybrid environment. Aligned the proposed architecture with GLBA and PCI-DSS regulatory frameworks, and delivered a comprehensive cost-benefit analysis justifying the strategic shift from CapEx to OpEx cloud spending.
+
 ### [Azure-Based Windows Server Active Directory Lab](https://github.com/ChristopherMonteleone/Azure-AD-Lab-Environment/tree/main)
 Architected a cloud-resident Windows Server 2022 environment in Microsoft Azure to simulate enterprise-scale identity management.
 * **Tech Stack:** Microsoft Azure, AD DS, DNS, DHCP, GPO
