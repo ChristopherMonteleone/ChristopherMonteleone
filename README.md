@@ -25,6 +25,10 @@ Executed a comprehensive threat hunting scenario using Microsoft Defender for En
 * **Tech Stack:** Microsoft Defender for Endpoint (MDE), Kusto Query Language (KQL), Azure Virtual Machines
 * **Key Outcome:** Developed advanced KQL queries to correlate file events, process execution, and network telemetry. Successfully identified the installation and usage of the TOR browser and triggered device isolation protocols to neutralize the risk.
 
+### [Threat Hunt: Hands on Keyboard Ransomware & Data Theft](https://github.com/ChristopherMonteleone/Threat-Hunt-Hands-on-Keyboard-Attack)
+* **Tools Used:** Microsoft Defender for Endpoint (MDE), Kusto Query Language (KQL), Windows Active Directory Environment
+* **Key Outcome:** Developed advanced KQL queries to correlate process execution, network connections, and memory telemetry. Successfully traced a full hands-on-keyboard attack lifecycle, uncovering fileless credential dumping, lateral movement, staged exfiltration, and anti-forensic log clearing.
+
 ---
 
 ## 🏗️ Identity & Systems Architecture
